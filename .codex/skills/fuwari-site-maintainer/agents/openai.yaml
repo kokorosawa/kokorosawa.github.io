@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fuwari Site Maintainer"
+  short_description: "Maintain Fuwari config, posts, and local builds"
+  default_prompt: "Use $fuwari-site-maintainer to update a Fuwari Astro blog while preserving project conventions."

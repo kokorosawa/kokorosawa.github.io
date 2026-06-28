@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fuwari Blog Author"
+  short_description: "Write Fuwari posts with supported Markdown patterns"
+  default_prompt: "Use $fuwari-blog-author to draft a Fuwari blog post with valid frontmatter and supported Markdown."
